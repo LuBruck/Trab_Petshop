@@ -1,3 +1,4 @@
+#Trab_Petsho
 Trabalho de Algoritmos I - Professor Thesko - UTFPR.
 
 Alunos: Lucas Bruck. Marcelo Yuji Ruiz. Maria Julia Pedroso de Oliveira Souza.
